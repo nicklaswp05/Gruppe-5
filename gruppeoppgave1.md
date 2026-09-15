@@ -1,4 +1,4 @@
-##4 Proaktive mekanismer for konflikthåndtering:
+## 4 Proaktive mekanismer for konflikthåndtering:
 
 Konflikter oppstår sjeldent med store, synlige hendelser. Det er som regel mange små ting som bygger seg opp over tid og knytter seg sammen til å bli et større problem. Da er det viktig å være observant og ta tak i konfliktene mens de fortsatt er små uenigheter. Vær proaktiv så langt man har evne til, men vær også reaktiv hvis det skulle oppdages konflikter.
 Tydelige forventninger og god kommunikasjon kan hjelpe til med å forebygge konflikt. Det er viktig at lederen etablerer seg som en person man kan snakke med om det skulle oppstå problemer. Det er viktig at alle behandler hverandre som voksne og med respekt, dette gjelder også prosjektleder. Man trenger ikke å være gode venner, men man må være aktiv i å skape et sunt og velfungerende miljø. Det er viktig å etablere tidlig at konflikter kan løses smart og uten eskalering for å skape tillit til hverandre, slik at alle forstår at konflikter kan løses logisk. Man er et team selv når man er uenig.
