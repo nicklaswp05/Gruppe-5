@@ -1,1 +1,11 @@
+# H1 Oppstartspakke 
+**1.	Strategi for rekruttering og sammensetning:**
+I store prosjekter som dette er det viktig at alle medlemmene av teamet kommer godt overens og kan stole på hverandre. “Hvor godt et prosjekt fungerer, ser ut til å avhenge like mye av hvordan samarbeidet mellom menneskene i gruppen fungerer, som den mer tekniske innsikten i hvordan man løser oppgaven” (Jacobsen, 2016, s. 14). Dette sitatet understreker kort og presist hvorfor det er viktig å danne en god strategi for rekruttering og sammensetning i forkant av et prosjektarbeid. Når du skal sette sammen et team er det viktig at du som prosjektleder tar høyde for at alle medlemmene du skal ha med har sine egne personligheter, på godt og vondt, som de bærer med seg inn i prosjektet, samt all kompetansen du er ute etter når du ansetter dem til å bli en del av teamet. 
 
+I boken “Engangsorganisasjonen” (Jacobsen 2016, s.33), finner man en liste med godt utviklede teorier om hvilke roller som er sentrale å få med for at en gruppe skal fungere skikkelig:
+•	Produksjon - Mennesker som er gode fagpersoner, og er med på å sikre ferdigstilling av oppgaven
+•	Administrasjon - Mennesker som er gode til å strukturere, holde flyt på prosjektet
+•	Integrasjon - Medlemmer som tar sosialt ansvar, som bidrar til godt fungerende relasjoner blant gruppemedlemmene
+•	Entreprenørskap - Mennesker som tenker nytt og stiller kritiske spørsmål underveis i prosessen
+
+Alle gruppemedlemmene i et prosjekt skal ha en klar arbeidsrolle, og vet hva som forventes av seg selv og de andre partene. Medlemmene skal selv vite hva de skal gjøre, og de skal vite og forstå hva lagkameratene deres skal gjøre. Det en vil unngå er at medlemmene i prosjektgruppen “tråkker” inn i hverandres områder/arbeid der de ikke skal.  I den forstand er det også ekstremt viktig at alle på teamet har en felles forståelse for målet de er ute etter med prosjektet. Gruppemedlemmene kan ha ulike forståelser eller oppfatninger av målet og hva som forventes, så det er dermed viktig at dette understrekes nøye og konkret i forkant av prosjektarbeidet. I tillegg må det også være en tydelig autoritetsfordeling. Hvem som har ansvar for hva, når og i hvilken fase må planlegges og bli kommunisert tydelig til gruppemedlemmene før en kan gå i gang med arbeidet.
