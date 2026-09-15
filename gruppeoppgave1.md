@@ -1,4 +1,4 @@
-# H1 Oppstartspakke 
+# Oppstartspakke 
 **1.	Strategi for rekruttering og sammensetning:**
 I store prosjekter som dette er det viktig at alle medlemmene av teamet kommer godt overens og kan stole på hverandre. “Hvor godt et prosjekt fungerer, ser ut til å avhenge like mye av hvordan samarbeidet mellom menneskene i gruppen fungerer, som den mer tekniske innsikten i hvordan man løser oppgaven” (Jacobsen, 2016, s. 14). Dette sitatet understreker kort og presist hvorfor det er viktig å danne en god strategi for rekruttering og sammensetning i forkant av et prosjektarbeid. Når du skal sette sammen et team er det viktig at du som prosjektleder tar høyde for at alle medlemmene du skal ha med har sine egne personligheter, på godt og vondt, som de bærer med seg inn i prosjektet, samt all kompetansen du er ute etter når du ansetter dem til å bli en del av teamet. 
 
