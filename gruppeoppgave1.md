@@ -2,6 +2,7 @@
 ### 1.	Strategi for rekruttering og sammensetning:
 I store prosjekter som dette er det viktig at alle medlemmene av teamet kommer godt overens og kan stole på hverandre. “Hvor godt et prosjekt fungerer, ser ut til å avhenge like mye av hvordan samarbeidet mellom menneskene i gruppen fungerer, som den mer tekniske innsikten i hvordan man løser oppgaven” (Jacobsen, 2016, s. 14). Dette sitatet understreker kort og presist hvorfor det er viktig å danne en god strategi for rekruttering og sammensetning i forkant av et prosjektarbeid. Når du skal sette sammen et team er det viktig at du som prosjektleder tar høyde for at alle medlemmene du skal ha med har sine egne personligheter, på godt og vondt, som de bærer med seg inn i prosjektet, samt all kompetansen du er ute etter når du ansetter dem til å bli en del av teamet. 
 
+
 I boken “Engangsorganisasjonen” (Jacobsen 2016, s.33), finner man en liste med godt utviklede teorier om hvilke roller som er sentrale å få med for at en gruppe skal fungere skikkelig:
 •	Produksjon - Mennesker som er gode fagpersoner, og er med på å sikre ferdigstilling av oppgaven
 •	Administrasjon - Mennesker som er gode til å strukturere, holde flyt på prosjektet
@@ -21,11 +22,39 @@ Før møtet avsluttes kan det opprettes en gruppe på en plattform, for eksempel
 
 Avslutningsvis kan lederen oppsummere de viktigste punktene og alle kan bidra med å dele forslag til det neste møtet. Det er viktig å ha en solid plan til de neste møtene og få med alle ideer og meninger for å sørge for at det ikke blir konflikter senere.
 
+### 3 Rammer for relasjonelle kontrakter:
+
+I et prosjekt som består av personer med ulike personligheter, ferdigheter og fagområder, er det avgjørende for effektiviteten og prosjektets framgang at det finnes et velfungerende samarbeid mellom prosjektledere, prosjektleder og gruppen. Å fokusere på «jerntriangelet» (tid, kvalitet og kostnad) alene er ikke like bærekraftig, fordi det også er viktig å være enige om hvordan man skal jobbe sammen. Derfor er en rasjonell kontrakt en god løsning på dette. Denne kontrakten handler om hvordan alle involverte i prosessen samarbeider i en gruppe eller et prosjekt. Målet med en rasjonell kontrakt er å skape tillit, trygghet, god kommunikasjon og et godt samarbeidsmiljø.
+
+En god rasjonell kontrakt inneholder tydelige punkter om:
+
+- Klare fordeling av roller og ansvar, som avgjør hvem som har ansvar for hva og hvem som tar beslutninger.
+- Kommunikasjon, kanaler og avtaler, som sørger for at all relevant informasjon deles med alle i gruppen om møter, oppdateringer og annen viktig informasjon.
+- Felles mål og verdier. Dette bør tydeliggjøre hva gruppen ønsker å oppnå og hvordan gruppen vil jobbe sammen.
+- Konflikthåndtering og tillitsbygging. Det bør være tydelig hvordan gruppen kan oppnå åpenhet og respekt, samtidig som det finnes retningslinjer for hvordan konflikter og uenigheter bør håndteres før de blir for store.
+- Håndtering av endringer. Hvordan ønsker gruppen å gå fram dersom noe må endres underveis.
+- Evaluering. Det er viktig å evaluere arbeidet underveis for å diskutere hvordan samarbeidet kan holdes på et høyt nivå. Hva har vært bra så langt, hva kan gjøres bedre, og hva har man lært underveis som kan forbedre samarbeidet i fremtiden.
+
+Det finnes flere tiltak som prosjektleder Erling Foreta kan bruke for å skape en god start for gruppen. Et forslag er et samarbeidsmandatdokument som kartlegger hvordan gruppen skal jobbe sammen. Det kan også holdes et oppstartsmøte der prosjektleder og prosjekteier forteller om mål, forventninger, samarbeid og planer. Prosjektleder må lage en kommunikasjonsplan som er passende og tilgjengelig for alle involverte i prosjektet. I denne plattformen kan han informere alle andre om sted, tidspunkt og agenda for møter. I tillegg må han lage et evalueringsskjema og bruke dette jevnlig for å kvalitetssjekke samarbeidet i gruppen, følge med på resultatene og ta opp eventuelle uenigheter og konflikter.
+
+I et prosjekt som dette er det ikke uvanlig at det kan oppstå konflikter eller uenigheter om hvordan noe skal løses eller hva som skal prioriteres. En rasjonell kontrakt skal fremme et godt samarbeid og bidra til å unngå misforståelser og stoppe arbeidsdriften. «(...) prosjekter med kontrakter som også definerer sosiale relasjoner mellom deltakere, opplever også mindre konflikter» (Jacobsen, 2016, s. 45).
+
+
 ### 4 Proaktive mekanismer for konflikthåndtering:
 
 Konflikter oppstår sjeldent med store, synlige hendelser. Det er som regel mange små ting som bygger seg opp over tid og knytter seg sammen til å bli et større problem. Da er det viktig å være observant og ta tak i konfliktene mens de fortsatt er små uenigheter. Vær proaktiv så langt man har evne til, men vær også reaktiv hvis det skulle oppdages konflikter.
 Tydelige forventninger og god kommunikasjon kan hjelpe til med å forebygge konflikt. Det er viktig at lederen etablerer seg som en person man kan snakke med om det skulle oppstå problemer. Det er viktig at alle behandler hverandre som voksne og med respekt, dette gjelder også prosjektleder. Man trenger ikke å være gode venner, men man må være aktiv i å skape et sunt og velfungerende miljø. Det er viktig å etablere tidlig at konflikter kan løses smart og uten eskalering for å skape tillit til hverandre, slik at alle forstår at konflikter kan løses logisk. Man er et team selv når man er uenig.
 Det er viktig å finne ut av hvor konflikten kommer fra. Hvis medlemmene i gruppen er uenige om framdrift kan valg tas demokratisk slik at de fleste medlemmene får jobbet slik de ønsker, eller om det er nødvendig så må lederen ta en sjefsavgjørelse. Alternativt kan gruppen inngå et kompromiss hvor man blir enige om hva som er nyttige elementer ved de uenige deltakernes meninger, og slå dem sammen til en fungerende framdriftsplan. Det er viktig at alle parter blir hørt og at ingen blir ignorert. Alle sakskonflikter skal behandles som seriøse, men også som muligheter for et bedre samarbeid. Noen konflikter kan være personlige. Ved dette tilfellet er det viktig å være i kommunikasjon med alle deltakende parter. Finn ut om konfliktene kan løses eller oversees. Om nødvendig, og hvis det kan løses slik, kan deltakerne i konflikt separeres så mye som mulig.
+
+### 5 Håndtering av tidspress og "planleggingsfellen":
+Alle prosjekter har oftest en klar deadline med tydelige resultatforventninger, i dette prosjektet har Erling 15 måneder fra oppstart til lansering av medborgportalen. Dette tidspresset kan lettere håndteres dersom prosjektet blir delt opp i ulike deler, Erling kan lede prosjektet i ulike faser og episoder der ting blir fokusert på en ting om gangen. Disse fasene burde fokusere på mindre del-milepæl om gangen, for eksempel hvilken metoder skal brukes til å gjennomføre oppgaver, hvem har ansvar for hva og hvordan gruppen burde jobbe sammen for å komme i mål. 
+
+ved å fordele prosjektet i ulike faser kan Erling redusere den kognitive belastningen for gruppen og dermed håndtere stress bedre. Den første fasen burde være formingsfasen, ettersom gruppen er  etablert, kommer stormingsfasen, i denne fasen blir ofte uklarheter og uenigheter synliggjort. God kommunikasjon er svært avgjørende i denne fasen. Etter dette kommer gruppen til normsettingsfasen, der gruppen utvikler felles normer og verdier. produksjonsfasen er den endelige fasen der gruppen faktisk utfører oppgaven. 
+
+Episoder kan tas i bruk for å planlegge et tidsplan med små leveranser underveis. Dette skal gjøre det enklere å holde fokus på en ting om gangen og redusere kognitiv belastning, men også veldig smart å skille mellom de forskjellige oppgavene. Prosjektet kan bli delt opp i ukentlige eller månedlige milepæler istedenfor å belaste gruppen med en stor deadline. Med deloppgaver er det lettere å ta i tak prosjektet og holde tidspresset i et bedre perspektiv. (Jacobsen, 2016, s. 19) 
+
+En annen ting Erling må holde i bakhodet er å være NB på planleggingsfellen, dette handler om at gruppen bruker for mye tid til å planlegge istedenfor å komme i gang med selve arbeidet. Dette kan unngås ved å sette planleggingsfasen inn i en bestemt tidsramme. Det er bedre å komme i gang så snart som mulig, men teste løsninger eller eventuelt endre underveis. Det er lite realistisk å kunne planlegge et helt perfekt prosjekt fra starten av, så det er sløsing av tid til å fokusere mot perfeksjon i planleggingsfasen. Det er derfor det er viktig med milepæler og deloppgaver, fordi det gir klare frister og krever at gruppa leverer noe istedenfor å bare planlegge og diskutere videre. 
+
 
 ### 6 Sikring av god kommunikasjon:
 
