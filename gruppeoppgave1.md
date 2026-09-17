@@ -63,3 +63,28 @@ Et tiltak som kan hjelpe er faste, ukentlige møter med tid til å forklare fags
 Det er også viktig med en tydelig agenda, slik at møtet ikke sporer av. Med en agenda vet alle hva som skal gjennomgås, i stedet for at møtet blir mer en uformell samtale enn faktisk arbeid. Agendaen hindrer også at man går gjennom det samme temaet flere ganger. I tillegg bør det skrives referat, slik at man holder styr på hvilke oppgaver som er fordelt, hvem som er ansvarlig, og hvilke tidsfrister som gjelder. Uten referat er det lett at avtaler glemmes eller blir uklare i etterkant, noe som kan føre til at oppgaver ikke blir gjort, eller at flere gjør det samme uten å vite det.
 Deltakerne kommer fra ulike bakgrunner og arbeidsmåter, og derfor bør alle tørre å si ifra hvis noe er uklart eller bekymrer dem. Prosjektlederen og teamet bør være åpne for nye ideer, høre alle ut, og være tålmodige med å forklare ting for hverandre. Hvis noen ikke tør å si ifra, kan problemer bli liggende uløst til de vokser seg større, eller så når kanskje ikke viktige innspill fra enkelte grupper, som brukerrepresentantene, frem til resten av teamet. Prosjektlederen bør derfor tydeliggjøre fra starten at alle kan komme til vedkommende med bekymringer, og høre alle ut uten å dømme.
 God kommunikasjon bidrar til å bygge tillit i teamet og legger et viktig grunnlag for å forebygge konflikter før de rekker å eskalere.
+
+
+**Kilder:**
+Gamst, N. (2024, 31. januar) Hva er egentlig god teamledelse? https://lederne.no/artikler/hva-er-egentlig-god-teamledelse/ 
+
+Gjøsund, P. & Huseby, R. (2015). To eller flere - basiskunnskaper i gruppepsykologi. (Utg. 4.). Cappelen Damm.  
+
+Jacobsen, D. I. (2016). Engangsorganisasjonen. Fagbokforlaget. 
+
+Nobo. (2024, 15. april). Slik kan du lage en god møteagenda for oppstartmøte ditt. https://www.noboeurope.com/no-no/blog/nobo/articles/prosjekt-kick-off-mote-agenda/ 
+
+
+
+### Kontraktevaluering:
+
+1. Hensiktsmessighet og etterlevelse
+Gruppen har stort sett fulgt det vi skrev i kontrakten. Vi har vært flinke til å fordele arbeidet, møte opp på tida og fysisk der det har latt seg gjøre, og meldt ifra om eventuelle hindringer til at vi kan møte opp. Vi har forholdt oss til hvordan vi avtalte bruk av AI. Vi har kommunisert og respektert hverandre til slik en grad at kontrakten har blitt et “glemt dokument” fra et visst synspunkt, dvs, vi har ikke hatt noe konflikt som gjorde det nødvendig å referere til kontrakten.
+
+2. Svakheter og rom for forbedring
+Fremdriftsplanene har ikke vært så offisielle, detaljerte, eller langtidsplanlagte som vi først tenkte når vi skrev dokumentet. Vi har bestemt oss for hva som skal gjøres på neste møte, men som regel ikke lenger frem enn det. Vi er kanskje litt for forsiktige, må si det man har på hjertet, må kunne diskutere litt.
+
+3. Erfaringer og råd for fremtidig prosjektarbeid
+Vi har ikke inkludert et punkt angående plutselig sykdom. Dette kan være lurt, og viktig, å inkludere i fremtidige kontrakter. Vi har heller ikke tatt i betraktning hva utfallet ville vært dersom noen ikke leverte sitt bidrag innen avklart tidsfrist. Dette er noe vi ikke tenkte over i utforming av initiell kontrakt, ettersom vi alle har gått inn i denne gruppen med tillit til hverandre. Vi kunne også ha skrevet et punkt angående konstruktiv kritikk, at man skal tåle å høre det og at kritikken man gir faktisk skal være konstruktiv.
+
+Et viktig punkt man alltid bør inkludere er forventning til innsats og enighet om hva målet er angående karakter.
