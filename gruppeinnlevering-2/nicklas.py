@@ -1,0 +1,11 @@
+#Introduksjons meldinger
+print()
+print ("Hei og velkommen til valg mulighet spillet. Som du vet er det noen konflikter i prosjektet ditt som er nødt til å ryddes opp i før dere kan gå videre.")
+print ("Det er det dette programmet er her for å hjelpe deg med!")
+print()
+print ("Du har 3 forskjellige situasjoner du er nødt til å ta stilling til:")
+print ("1. Hvordan skal du håndtere Erling konflikten mellom Silje og Elias?")
+print ("2. Hvordan skal du håndtere uenigheten mellom Hamdi og Hallgeir?")
+print ("Og 3. Hvordan skal du klare å bevare motivasjonen i teamet ditt?")
+print()
+print("1. Silje mener løsningen Elias foreslår vil låse brukeropplevelsen og hindreinnovasjon. Elias mener Siljes forslag er urealistisk, usikkert og for kostbart.")
