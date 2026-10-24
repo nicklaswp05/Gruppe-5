@@ -1,4 +1,4 @@
-#Total verdien som skal hentes til slutt, vil bli populert av poengene beregnet av funksjonen over
+#Variabel for å regne ut poengsummen etter valgene utført av bruker
 score = 0
 
 #Introduksjons meldinger
