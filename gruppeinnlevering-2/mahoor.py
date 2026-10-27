@@ -26,7 +26,7 @@ print(" ERLING OG STORMEN")
 print("=" * 60)
 print("""
 Du er Erling, prosjektleder i et team som utvikler en digital 
-medborgerportal. Teamet er midt i storming-fasen, og flere 
+medborgerportal. Teamet er midt i storming fasen, og flere 
 konflikter truer med å stoppe prosjektet.
 
 Hva bør Erling gjøre?
@@ -70,7 +70,7 @@ if valg2 == "A":
     print("forenes under en felles framdriftsplan.")
 else:
     poeng += 0
-    print("\nKonsekvens: Framdriften svekkes og prosjektet forsinkes.")
+    print("\nKonsekvens: Framdriften reduseres og prosjektet forsinkes.")
     print("Kvaliteten på det endelige designet påvirkes negativt.")
 
 # ----------------------------------------------------
@@ -88,7 +88,7 @@ valg3 = les_valg("Hva velger Erling? (A/B): ")
 
 if valg3 == "A":
     poeng += 1
-    print("\nKonsekvens: Spenningen svekkes, og teamet får en velfortjent")
+    print("\nKonsekvens: Spenningen reduseres, og teamet får en velfortjent")
     print("feiring av hvor langt de har kommet.")
 else:
     poeng += 0
