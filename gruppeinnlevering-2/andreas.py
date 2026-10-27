@@ -4,7 +4,7 @@ poengsum = 0
 
 print("\nFørste konflikt er mellom Silje og Elias. De er uenige om teknologivalg, og det har utviklet seg fra en sakskonflikt til en personkonflikt.")
 konflikt_1 = input(" Velg hvilken løsning Erling skal ta:" \
-    "\n1) Hold en avstemning over hvilket design som skal brukes" \
+    "\n1) Hold et møte med hele teamet" \
     "\n2) Hold individuelle samtaler med hver av de konfliktende partene \n ")
 while konflikt_1 not in ["1", "2"]:
     print("\nUgyldig valg. Vennligst velg 1 eller 2.")
@@ -19,17 +19,17 @@ else:
 
 print("\nAndre konflikt er mellom Hamdi og Hallgeir. De er uenige om hvordan innbyggerne skal kunne delta i digitale folkemøter og kommer med to ganske forskjellige alternativer")
 konflikt_2 = input(" Velg hvilken løsning Erling skal ta:" \
-    "\n1) Sjefsavgjørelse. Erling velger hvilket design de går for" \
+    "\n1) Vent til de løser det selv" \
     "\n2) Erling holder møte med Hamdi og Hallgeir for å finne en løsning \n ")
 while konflikt_2 not in ["1", "2"]:
     print("\nUgyldig valg. Vennligst velg 1 eller 2.")
     konflikt_2 = input(" Velg hvilken løsning Erling skal ta: \n ")
 if konflikt_2 == "1":
-    print("\nEn av partene er misfornøyde med at Erling ikke valgte dem, men prosjektet går videre med tydelig framdriftsplan")
-    poengsum += 1
+    print("\nFremdrift er svekket og prosjektet forsinkes, kvaliteten på det endelige designet påvirkes negativt")
+    poengsum += 0
 else:
     print("\nMålet med designet avklares, og Hamdi og Hallgeir forenes under en felles framdriftsplan")
-    poengsum += 2
+    poengsum += 1
 
 
 
@@ -42,15 +42,15 @@ while konflikt_3 not in ["1", "2"]:
     konflikt_3 = input(" Velg hvilken løsning Erling skal ta: \n ")
 if konflikt_3 == "1":
     print("\nSpenninga svekkes og teamet får en velfortjent feiring av hvor langt de har kommet")
-    poengsum += 2
-else:
-    print("\nMedlemmene forstår at de er verdsatt og at de snart er i mål med et verdifult produkt")
     poengsum += 1
+else:
+    print("\nMedlemmene forstår at de er verdsatt og at de snart er i mål med et verdifult produkt, men det tar mye tid å snakke med alle og prosjektet forsinkes")
+    poengsum += 0
 
 print("\nErling har nå løst de tre konfliktene.")
-if poengsum >= 5:
-    print("Hans konflikthåndetring har ført til at teamet jobbet sterkere. Produktet er levert innen fristen og er av høy kvalitet")
-elif poengsum <= 2:
-    print("Hans konflikthåndtering har ført til at teamet jobbet dårligere. Produktet er ikke levert innen fristen")
+if poengsum >= 3:
+    print("Hans konflikthåndetring har ført til at teamet jobbet sterkere. Prosjektet ble levert i tide og alle var fornøyd")
+elif poengsum <= 1:
+    print("Hans konflikthåndtering har ført til at teamet jobbet dårligere. Produktet er ikke ferdig i tide")
 else:
-    print("Hans konflikthåndtering har ført til at teamet jobbet greit. Produktet er levert innen fristen, men kvaliteten kunne vært bedre")
+    print("Hans konflikthåndtering har ført til at teamet jobbet greit. Produktet ble ferdig, men møtte ikke forventingene")
