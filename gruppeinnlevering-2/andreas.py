@@ -1,4 +1,6 @@
+print("=" * 60)
 print("Erling er leder for et designteam som skal lage en ny medborgerportal for kommunen. \nI teamet har det oppstått noen konflikter.")
+print("=" * 60)
 poengsum = 0
 
 
